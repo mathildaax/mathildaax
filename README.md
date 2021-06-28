@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @mathildaax
-- 👀 I’m interested in front-end development and UX-design
-- 🌱 I’m currently learning React Native
 
 <!---
 mathildaax/mathildaax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
